@@ -1,4 +1,4 @@
-# comment-toxicity-model
+# Comment Toxicity Model
 
 This repository contains a comment toxicity model built using TensorFlow and Keras, aiming to predict the toxicity level of comments. The model is trained on the [Jigsaw Toxic Comment Classification Challenge dataset](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data?select=train.csv.zip).
 
