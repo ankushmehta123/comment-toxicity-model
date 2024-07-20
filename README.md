@@ -11,6 +11,6 @@ This repository contains a comment toxicity model built using TensorFlow and Ker
 
 ## Usage
 
-Here is a real world example 
+Here is a real world example
 ![Screenshot (11)](https://github.com/ankushmehta123/comment-toxicity-model/assets/32393931/085b80a2-9c1b-4fe6-9679-edaf3ad6ca70)
 As shown above, the comment is labelled as severe toxic, threat and identity hate.
